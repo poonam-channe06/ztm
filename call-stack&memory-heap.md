@@ -13,10 +13,34 @@ so we use call stack and memory heap for that.
 
 ## call stack + memory heap 
 
+
+```
 const bumber = 10; // allocate memory for number
 const string = "poonam" // allocate memory for string
 const info = {         // allocate memory for an object and its values 
     name: "poonam",
     "lastname: "channe"
 }
+```
 
+<br/>
+
+
+<!-- images -->
+
+<p align="center"/><img src="Images/Call-stack.jpg" width="70%" />
+
+<br/>
+
+<p align="center"/><img src="Images/GEC-phase-1.jpg" width="70%" />
+
+
+<br/>
+
+<p align="center"/><img src="Images/GEC-phase-2.jpg" width="70%" />
+
+<br/>
+
+<p align="center"/><img src="Images/Phase-2.jpg" width="70%" />
+
+<br/>

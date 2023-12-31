@@ -113,3 +113,8 @@ console.log(bigBrother());
 Output will be : 'no me!' 
 ```
 
+### we can refer below : 
+
+<p align="center"/><img src="Images/let&const-hoisted.jpg" width="70%" />
+
+<br/>
